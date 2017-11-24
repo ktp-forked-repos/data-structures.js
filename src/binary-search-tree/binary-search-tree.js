@@ -55,7 +55,9 @@ export class BST {
     this.root = null;
     this[length] = 0;
   }
-
+  set len(l) {
+    this[length] = l;
+  }
   get len() {
     return this[length];
   }
