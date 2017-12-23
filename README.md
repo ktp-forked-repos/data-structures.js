@@ -31,6 +31,7 @@ Trigger production build
 # List of Data Structures
 Data structures covered so far -
 - [Binary Search Tree](#binary-search-tree)
+- [AVL Tree](#avl-tree) - In Progress
 - [Graph](#graph)
 - [Queue](#queue)
 
@@ -103,6 +104,8 @@ Delete elements from binary search tree
 bst.delete(10);
 bst.delete(20);
 ```
+# <a name="avl-tree"></a>AVL Tree
+AVL Tree Docs.
 
 # <a name="graph"></a> Graph
 Import Graph class and instantiate it and create an object of adjacency list implementation of Graph. To create a directed graph pass the string argument '**directed**'. If the Graph class is called without a parameter then by default its undirected graph.
